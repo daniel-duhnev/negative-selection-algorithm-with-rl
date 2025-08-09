@@ -55,7 +55,3 @@ python classifier_rl_unix.py
 3. **AG News**: Accessed via Hugging Face
    - Automatically downloaded during script execution
    - Requires internet connection
-
-## Example Output
-Below is an example of a successful run using the Twitter dataset:
-![Screenshot 2025-06-14 165056](https://github.com/user-attachments/assets/8a372bc0-6968-4a5d-8d48-b5f37e18e04d)
